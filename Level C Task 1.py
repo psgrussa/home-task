@@ -6,3 +6,5 @@ BAT = KB*1024
 print(BAT, 'Байт')
 BT = KB*8192
 print(BT, 'Бит')
+else:
+    print('Ошибка при вводе данных')
