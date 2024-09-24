@@ -9,4 +9,4 @@ print(simvolov_na2stanise, 'Символов на двух страницах')
 informasiya = simvolov_na2stanise*5
 print(informasiya, 'Информации на двух страницах (биты)')
 else:
-    print('ошибка ввода')
+    print('Ошибка при вводе данных')
